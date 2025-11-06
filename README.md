@@ -1,2 +1,2 @@
-﻿# storm-app
+﻿# Weather2
 Initial setup.
