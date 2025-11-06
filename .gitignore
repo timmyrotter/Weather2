@@ -1,0 +1,13 @@
+﻿data/
+models/
+*.pkl
+*.parquet
+*.csv
+*.zip
+*.png
+*.jpg
+*.jpeg
+*.gif
+.venv/
+__pycache__/
+.DS_Store
